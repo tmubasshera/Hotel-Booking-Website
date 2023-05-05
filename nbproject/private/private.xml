@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/userProfile.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/signup.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/adminLogin.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/DAO/userdao.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/home.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/controller/AdminLoginController.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/model/User.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/controller/BookingController.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/src/java/DButility/DBconnection.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/adminhome.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/Hotel%20Booking%20Website/web/View/userLogin.jsp</file>
+        </group>
+    </open-files>
+</project-private>
